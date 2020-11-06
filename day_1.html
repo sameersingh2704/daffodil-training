@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<HTML>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0">
+    <title>Sameer Singh</title>
+    <style>
+        .card {
+            border: 1px solid #ccc;
+            background-color: antiquewhite;
+            padding: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="Main-header" class="card">
+        <h1>Tour And Travelers</h1>
+        <p>Book your trip and enjoy Vacation and Holidays</p>
+        <img src="https://source.unsplash.com/400x200/?nature,water" alt="Image">
+        <ul id="main-nav">
+            <li><a href="https://www.holidify.com/country/india/places-to-visit.html" target="_blank">List of Places</a>
+            </li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+        <div id="contact" class="card">
+            <h3>Contact</h3>
+            <ol type="i">
+                <li>Address: </li>
+                <li>Phone: </li>
+                <li>Email: </li>
+            </ol>
+        </div>
+        <div id="contact" ,class="card">
+            <h3>Details</h3>
+            <table>
+                <thead>
+                    <tr>
+                        <th>S.No</th>
+                        <th>Package</th>
+                        <th>Days</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>25000</td>
+                        <td>2</td>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                        <td>2</td>
+                        <td>45000</td>
+                        <td>4</td>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr>
+                        <td>3</td>
+                        <td>80000</td>
+                        <td>7</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+        <div id="form" class="card">
+            <h3>Form</h3><br>
+            <p>Please fill the form According details</p>
+            <form action="process.php">
+                <div>
+                    <label for="name">Name</label><br>
+                    <input type="text" id="name" name="name" placeholder="Enter name">
+                </div>
+                <div>
+                    <label for="email">Email</label><br>
+                    <input type="email" id="email" name="email" placeholder="Enter email">
+                </div>
+                <div>
+                    <label for="place">Place</label><br>
+                    <textarea name="Place" id="place" cols="50" rows="5"></textarea>
+                </div>
+                <div>
+                    <label for="sex">Sex</label><br>
+                    <select name="sex" id="sex">
+                        <option value="male">Male</option>
+                        <option value="female">Female</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="age">Age</label><br>
+                    <input type="number" name="age" id="age">
+                </div>
+                <div>
+                    <label for="date">Date of travel</label><br>
+                    <input type="date" name="date" id="date">
+                </div>
+                <div>
+                    <label for="no. of people">No. of people</label><br>
+                    <input type="number" name="no. of people" id="no. of people">
+                </div>
+                <div>
+                    <label for="package">Package</label><br>
+                    <input type="radio" name="package" value="2 Days" id="package">2 Days
+                    <input type="radio" name="package" value="4 Days" id="package">4 Days
+                    <input type="radio" name="package" value="7 Days" id="package">7 Days
+                </div>
+                <div>
+                    <label for="like">I like to go by</label><br>
+                    <input type="checkbox" name="like" value="by road" id="like">by Road
+                    <input type="checkbox" name="like" value="by train" id="like">by Train
+                    <input type="checkbox" name="like" value="by flight" id="like">by Flight
+                </div>
+                <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </form>
+        </div>
+        
+    </div>
+    
+    <footer>Copyright & copy 2020</footer>
+</body>
+
+</HTML>
