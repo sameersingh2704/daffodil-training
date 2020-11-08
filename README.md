@@ -1,6 +1,6 @@
 # daffodil-training
 
-# Assignment 1 
+# Task 1 
 - title
 - random image display
 - contact details
@@ -16,3 +16,11 @@
     - package
     - like to go by
     - submit & reset
+
+# Task 2
+- font size
+- font style
+- text alignment
+- background
+
+# Task 3
