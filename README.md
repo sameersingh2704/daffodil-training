@@ -24,4 +24,5 @@
 - background
 
 # Task 3
-<h2>Designed the given webpage of Nutrilon</h2> [a link](https://drive.google.com/drive/folders/1bsZ-FOuvSxl68Ljjo3w9VXNnlXZnB8bf)
+Designed the given webpage of [Nutrilon](https://drive.google.com/drive/folders/1bsZ-FOuvSxl68Ljjo3w9VXNnlXZnB8bf)
+**Note:** The **Background** is different.
