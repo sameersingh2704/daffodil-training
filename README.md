@@ -28,13 +28,33 @@ Designed the given webpage of [Nutrilon](https://drive.google.com/drive/folders/
 **Note:** The **Background** is different.
 
 # Task 4
--form
-    -name
-    -email
-    -dob
-    -gender
-    -skills
-    -feedback
-    -submit
-    -reset
+- form
+    - name
+    - email
+    - dob
+    - gender
+    - skills
+    - feedback
+    - submit
+    - reset
 -style all the elements
+
+# Task 5 & 6
+- home
+    - header
+    - images & text
+    - fontawesome icons
+    - footer
+- about
+    - header
+    - images & text
+    - Guest feedback
+    - footer
+- contact
+    - header
+    - form
+        - name
+        - email
+        - message
+    - fontawesome icons & text
+    - footer
