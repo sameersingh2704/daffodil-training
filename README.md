@@ -26,7 +26,7 @@
 # Task 3
 Designed the given webpage of [Nutrilon](https://drive.google.com/drive/folders/1bsZ-FOuvSxl68Ljjo3w9VXNnlXZnB8bf)<br>
 **Note:** The **Background** is different.
-![alt text](https://drive.google.com/file/d/1Gk2FDZGW8HQeMOxJZHmZ4420Tr9fctBY/view)
+![alt text](![Alt text](task3.jpg?raw=true "Title"))
 
 # Task 4
 - form
